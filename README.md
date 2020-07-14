@@ -1,2 +1,1 @@
 # react-typewriter
-react-typewriter
