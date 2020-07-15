@@ -1,0 +1,27 @@
+{
+  "files": {
+    "static/js/0.2ec16310.chunk.js": "/react-typewriter/static/js/0.2ec16310.chunk.js",
+    "static/js/0.2ec16310.chunk.js.map": "/react-typewriter/static/js/0.2ec16310.chunk.js.map",
+    "Results.js": "/react-typewriter/static/js/Results.a8d8c88a.chunk.js",
+    "Results.js.map": "/react-typewriter/static/js/Results.a8d8c88a.chunk.js.map",
+    "TypeWriter.js": "/react-typewriter/static/js/TypeWriter.106a653f.chunk.js",
+    "TypeWriter.js.map": "/react-typewriter/static/js/TypeWriter.106a653f.chunk.js.map",
+    "main.js": "/react-typewriter/static/js/main.ad6960ef.chunk.js",
+    "main.js.map": "/react-typewriter/static/js/main.ad6960ef.chunk.js.map",
+    "runtime-main.js": "/react-typewriter/static/js/runtime-main.874d712c.js",
+    "runtime-main.js.map": "/react-typewriter/static/js/runtime-main.874d712c.js.map",
+    "static/js/5.76d5384f.chunk.js": "/react-typewriter/static/js/5.76d5384f.chunk.js",
+    "static/js/5.76d5384f.chunk.js.map": "/react-typewriter/static/js/5.76d5384f.chunk.js.map",
+    "static/js/6.033f77e4.chunk.js": "/react-typewriter/static/js/6.033f77e4.chunk.js",
+    "static/js/6.033f77e4.chunk.js.map": "/react-typewriter/static/js/6.033f77e4.chunk.js.map",
+    "index.html": "/react-typewriter/index.html",
+    "precache-manifest.1a82cdc32772d216200ccbc33f2410dc.js": "/react-typewriter/precache-manifest.1a82cdc32772d216200ccbc33f2410dc.js",
+    "service-worker.js": "/react-typewriter/service-worker.js",
+    "static/js/5.76d5384f.chunk.js.LICENSE.txt": "/react-typewriter/static/js/5.76d5384f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.874d712c.js",
+    "static/js/5.76d5384f.chunk.js",
+    "static/js/main.ad6960ef.chunk.js"
+  ]
+}
